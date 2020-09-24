@@ -10,4 +10,4 @@
 
 [Ejercicio Visualización de datos PDF](https://github.com/PilarAbigailMendozaAlvarez/Mineria-de-Datos-Agosto-2020---Enero-2021/blob/master/Ejemplo_Visualizaci%C3%B3n%20de%20datos_002.pdf)
 
-[Ejercicio Visualización de datos PYTHON](https://github.com/PilarAbigailMendozaAlvarez/Mineria-de-Datos-Agosto-2020---Enero-2021/blob/master/Ejercicio_Visualizacion%20de%20datos_002)
+[Ejercicio Visualización de datos PYTHON](https://github.com/PilarAbigailMendozaAlvarez/Mineria-de-Datos-Agosto-2020---Enero-2021/blob/master/Visualizaci%C3%B3n.ipynb)
