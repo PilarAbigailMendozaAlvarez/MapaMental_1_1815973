@@ -4,7 +4,7 @@
 
 ## Fase 1 | G:002 | Matricula: 1815973
 
-[Mapa Mental](https://github.com/PilarAbigailMendozaAlvarez/Mineria-de-Datos-Agosto-2020---Enero-2021/blob/master/MapaMental_1_1815973.pdf)
+[Mapa Mental 1](https://github.com/PilarAbigailMendozaAlvarez/Mineria-de-Datos-Agosto-2020---Enero-2021/blob/master/MapaMental_1_1815973.pdf)
 
 [Presentación Visualización de datos](https://github.com/PilarAbigailMendozaAlvarez/Mineria-de-Datos-Agosto-2020---Enero-2021/blob/master/Presentacion_Visualizacion%20de%20datos_002.pdf)
 
