@@ -2,8 +2,7 @@
 
 # FCFM
 
-## Grupo 002
-## Fase 1 
+## Fase 1 G:002
 
 [Mapa Mental](https://github.com/PilarAbigailMendozaAlvarez/Mineria-de-Datos-Agosto-2020---Enero-2021/blob/master/MapaMental_1_1815973.pdf)
 
