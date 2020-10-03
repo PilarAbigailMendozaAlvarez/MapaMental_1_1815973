@@ -16,4 +16,4 @@
 
 [Resumen](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/Resumen_1815973.pdf)
 
-[Mapa Mental](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/MapaMental_2_1815973.pdf)
+[Mapa Mental 2](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/MapaMental_2_1815973.pdf)
