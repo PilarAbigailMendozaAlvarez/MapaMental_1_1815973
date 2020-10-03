@@ -15,3 +15,5 @@
 [Ejercicios 1_Visualización de datos_002 (PDF)](https://github.com/PilarAbigailMendozaAlvarez/Mineria-de-Datos-Agosto-2020---Enero-2021/blob/master/Ejercicios1_Visualizaci%C3%B3n%20de%20datos_002.pdf)
 
 [Resumen](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/Resumen_1815973.pdf)
+
+[Mapa Mental](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/MapaMental_2_1815973.pdf)
