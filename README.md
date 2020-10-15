@@ -1,8 +1,8 @@
 # Mineria de Datos Agosto 2020 - Enero 2021
 
-# FCFM
+# FCFM | G:002 | Matricula: 1815973
 
-## Fase 1 | G:002 | Matricula: 1815973
+## Fase 1 
 
 [Mapa Mental 1](https://github.com/PilarAbigailMendozaAlvarez/Mineria-de-Datos-Agosto-2020---Enero-2021/blob/master/MapaMental_1_1815973.pdf)
 
@@ -17,3 +17,8 @@
 [Resumen](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/Resumen_1815973.pdf)
 
 [Mapa Mental 2](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/MapaMental_2_1815973.pdf)
+
+
+## Fase 2 
+
+[Analisis BD](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/AnalisisBD_1815973.pdf)
