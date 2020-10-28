@@ -24,3 +24,6 @@
 [Analisis BD](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/AnalisisBD_1815973.pdf)
 
 [Ejercicios Python Basico](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/PythonBasico_1815973.ipynb)
+
+[Avance PIA Equipo 2](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/Avance1-PIA_02_002.pdf)
+
