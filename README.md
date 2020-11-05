@@ -1,6 +1,6 @@
 # Mineria de Datos Agosto 2020 - Enero 2021
 
-# FCFM | G:002 | Matricula: 1815973
+# FCFM | Grupo:002 | Matricula: 1815973
 
 ## Fase 1 
 
