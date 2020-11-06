@@ -29,6 +29,6 @@
 
 ## Fase 3
 
-[Practica: Limpieza de datos-Equipo 02](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/Ejercicio_Limpieza_de_Datos_Equipo_02.ipynb)
+[P1-Manipulación de datos](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/P1%20-%20Manipulacion%20de%20datos.ipynb)
 
-[Practica: Visualización de datos- Equipo 02](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/Visualizaci%C3%B3n_de_Datos_Equipo_02.ipynb)
+[P2-Visualizacion de datos](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/P2%20-%20Visualizacion%20de%20datos.ipynb)
