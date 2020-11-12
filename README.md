@@ -34,6 +34,6 @@
 
 ## Fase 3
 
-[Avance PIA II_002_02](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/AvancePIA_II_002_02-checkpoint.ipynb)
+[Avance PIA II_002_02](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/AvancePIA_II_002_02.ipynb)
 
 [Avance PIA II_002_02 pdf](https://github.com/PilarAbigailMendozaAlvarez/Mineria_de_Datos_Agosto_2020-Enero_2021/blob/master/AvancePIA_II_002_02.pdf)
